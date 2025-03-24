@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@tailwindcss/cli": "^4.0.15",
     "@tailwindcss/vite": "^4.0.15",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
